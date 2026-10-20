@@ -1,0 +1,6 @@
+{
+  "name": "Amar Haat Assam",
+  "description": "From Assam’s Farms to Every Home — connecting farmers, SHGs, rural producers, and buyers across Assam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
